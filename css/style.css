@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600,700,800&display=swap');
+.welcomebanner{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 40px 40px;
+}
+
+.welcomeh1{
+    font-size: 100px;
+    font-weight: 700;
+    font-family: Poppins;
+    color: #3c4043;
+    align-content: center;
+    line-height: 1.2;
+    margin-top: -30px;
+    padding: 20px 20px;
+}
+
+.welcomep{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #3c4043;
+    margin-top: -70px;
+    align-items: center;
+}
+.Joinfibtn{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #1a73e8;
+    padding: 12px 32px;
+    text-decoration: solid;
+    background-color: white;
+    border: 2px solid #1a73e8;
+    border-radius: 10px;
+    margin: 40px 40px;
+}
+.planscards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 150px;
+    align-content: space-between;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 250px;
+    
+} 
+
+.plansp{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #3c4043;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.plansbtn{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #1a73e8;
+    padding: 12px 32px;
+    text-decoration: solid;
+    margin: 10px 20px;
+}
+.slidercards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 150px;
+    align-content: space-between;
+    margin-left: 300px;
+    margin-right: 250px;
+    
+} 
+
+.sliderp{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #3c4043;
+    margin-top: 10px;
+    align-items: center;
+}
+.sliderp2{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #3c4043;
+    margin: 20px, 20px;
+    align-items: center;
+}
+
+.sliderh1{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #3c4043;
+    align-items: center;
+}
+.sliderbtn{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #1a73e8;
+    padding: 12px 32px;
+    text-decoration: solid;
+    background-color: white;
+    border: 2px solid #1a73e8;
+    border-radius: 10px;     
+}
+.dataplans{
+    margin-top: 50px;
+    position: relative;
+    text-align: center;
+    
+
+}
+.dataplansimg{
+    width: 1400px;
+    height: 900px;
+}
+.dataplansp{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #3c4043;
+    margin: 20px, 20px;
+    align-items: center;
+    line-height: 25px;
+}
+
+.dataplansh1{
+    font-size: 50px;
+    font-weight: 800;
+    font-family: Poppins;
+    color: #3c4043;
+    align-items: center;
+    line-height: 60px;
+}
+.dataplanstxt{ 
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.dataplanscardsp{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #3c4043;
+    margin: 20px, 20px;
+    align-items: center;
+    line-height: 25px;
+    margin-top: -20px;
+}
+
+.dataplanscardsh1{
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Poppins;
+    color: #3c4043;
+    align-items: center;
+    line-height: 60px;
+}
+.dataplanscardsp2{
+    font-size: 15px;
+    font-weight: 800;
+    font-family: Poppins;
+    color: #3c4043;
+    margin: 20px, 20px;
+    align-items: center;
+    line-height: 25px;
+    
+}
+.dataplanscards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 150px;
+    align-content: space-between;
+    margin-left: 300px;
+    margin-right: 250px;
+    border-radius: 10px;
+    
+    
+    
+} 
+.dataplansbtn{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #1a73e8;
+    padding: 12px 32px;
+    text-decoration: solid;
+    margin: 10px 20px;
+}
+.coverage{
+    width: 1200px;
+    height: 1200px;
+    margin-top: 50px;
+    position: relative;
+    text-align: center;
+    
+
+}
+.coverageimg{
+    width: 1000px;
+    height: 800px;
+    text-align: right;
+}
